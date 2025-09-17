@@ -1,0 +1,1 @@
+print("say hello to the basic of python learning session")
